@@ -1,0 +1,12 @@
+{
+  "name": "teste-applay-master",
+  "version": "1.0.0",
+  "description": "Parabéns, você foi selecionado(a) para a próxima fase. Nesta etapa, precisamos que você analise o App e implemente as tarefas que listamos abaixo e que consideramos essenciais. Novas funcionalidades são um grande diferencial.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

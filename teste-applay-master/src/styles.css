@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#formulario{
+  background-color: white;
+  margin-top: 100px;
+}
+.main {
+  padding: 10px;
+}
+
+.main table {
+  margin-top: 32px;
+}
+
+.main table thead {
+  font-weight: bold;
+}
+body{
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(232,232,232,1) 99%, rgba(9,9,121,0) 100%);
+}
+.msg{
+  color: #B22222;
+}
+#novoCandidato{
+  padding: 5px;
+}
